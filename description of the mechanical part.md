@@ -15,6 +15,7 @@ The structure is divided 2 parts:
 
 
 
+
 •	The horizontal, circular ones, subdivided on 2 others:
 
  -> The inside ones, which are thin circle. There are 10 of them to define the pixels.
