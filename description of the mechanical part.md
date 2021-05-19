@@ -6,7 +6,7 @@ About the mechanical part, we divided in 3 main parts of work:
 
 •	And how to blur the light to have a uniform pixel for the light.
 
-For the global structure we had 2 possibilities: a square or a circle around the pillar. We choose the circular one because, even if it were theoretically more difficult to create the sketch, the final aesthetic would be better. Furthermore, with the square, the pixel on the corners would have been an issue to program them. We work on a quarter of circle but when the quarter is usable, we will juts print it 3 more and assemble it.
+We work on a quarter of circle but when the quarter is usable, we will juST print it 3 more and assemble it.
 
 The structure is divided 2 parts:
 
