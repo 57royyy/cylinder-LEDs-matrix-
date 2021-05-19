@@ -47,3 +47,5 @@ This way, we have a global structure with square pixel of 3cm of side, which all
 Now, we want to blur it, which means we want to diffuse the light on all the pixels. To do this, we use a flexible and opaque plastic. We dimension it and create little hole on the external parts to clip it and this way it won’t move. 
 ![image](https://user-images.githubusercontent.com/84088353/118656990-55d2ad80-b7eb-11eb-9736-87c868817555.png)
 
+
+eventually, to create an all circle we wjust would have to print 3 more quarters of circle and assemble them.
