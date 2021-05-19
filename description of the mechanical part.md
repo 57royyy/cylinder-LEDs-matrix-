@@ -6,7 +6,11 @@ About the mechanical part, we divided in 3 main parts of work:
 
 •	And how to blur the light to have a uniform pixel for the light.
 
+
+
 We work on a quarter of circle but when the quarter is usable, we will juST print it 3 more and assemble it.
+
+
 
 The structure is divided 2 parts:
 
