@@ -10,7 +10,7 @@ We work on a quarter of circle but when the quarter is usable, we will juST prin
 
 The structure is divided 2 parts:
 
-•	In vertical part, straight with 11 pixels on
+•	In vertical part, straight with 11 pixels on                                                                       
 ![image](https://user-images.githubusercontent.com/84088353/118656126-8403bd80-b7ea-11eb-85d1-b87a84527feb.png)
 
 
