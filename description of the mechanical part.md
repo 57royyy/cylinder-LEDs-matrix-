@@ -24,7 +24,7 @@ The structure is divided 2 parts:
  
 
  -> And the exterior one, which have 19 pixels which are full to maintain and for other technical constraints which will appear later.
-![image](https://user-images.githubusercontent.com/84088353/118656207-9b42ab00-b7ea-11eb-90e0-6417446141c9.png)
+![image](https://user-images.githubusercontent.com/84088353/118825697-32773380-b8bb-11eb-8e1c-48d229add495.png)
 
 
 
