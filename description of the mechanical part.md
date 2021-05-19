@@ -24,12 +24,14 @@ The structure is divided 2 parts:
  
 
  -> And the exterior one, which have 19 pixels which are full to maintain and for other technical constraints which will appear later.
+ 
 ![image](https://user-images.githubusercontent.com/84088353/118825697-32773380-b8bb-11eb-8e1c-48d229add495.png)
 
 
 
 
 The internal is composed of straight rod to fix the pixels on it and make the assemblage easier to manage with the cable which connect the different columns of pixels.
+
 ![image](https://user-images.githubusercontent.com/84088353/118657635-f0cb8780-b7eb-11eb-84f4-d711a1c7f36a.png)
 
 
